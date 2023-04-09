@@ -7,3 +7,6 @@
 [submodule "hacklipse-backend"]
 	path = hacklipse-backend
 	url = https://github.com/Ikshan-Tango/hacklipse-backend
+[submodule "sys-monitor-unit"]
+	path = sys-monitor-unit
+	url = https://github.com/destrex271/sys-monitor-unit.git
