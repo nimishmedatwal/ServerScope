@@ -1,0 +1,9 @@
+[submodule "Server-Monitoring-Tool"]
+	path = Server-Monitoring-Tool
+	url = https://github.com/UdBe/Server-Monitoring-Tool.git/
+[submodule "server-kafka"]
+	path = server-kafka
+	url = https://github.com/nimishmedatwal/server-kafka.git
+[submodule "hacklipse-backend"]
+	path = hacklipse-backend
+	url = https://github.com/Ikshan-Tango/hacklipse-backend
